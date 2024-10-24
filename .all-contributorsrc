@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "nholuong",
+      "name": "Nho Luong",
+      "avatar_url": "https://ko-fi.com/nholuong",
+      "profile": "https://www.linkedin.com/in/nholuong/",
+      "contributions": [
+        "code",
+        "business"
+      ]
+    },
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com/nholuongut/devops-basics",
+  "projectName": "devops-basics",
+  "projectOwner": "nholuong"
+}

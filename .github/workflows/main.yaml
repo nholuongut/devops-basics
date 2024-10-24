@@ -1,0 +1,19 @@
+name: Generate Readme (WIP)
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  list_folders_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run generate-main-readme.sh (WIP)
+        run: |
+          cd tools
+          ls -la
+          chmod +x generate-main-readme.sh
+          ./generate-main-readme.sh
+
