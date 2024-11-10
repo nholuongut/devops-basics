@@ -20,7 +20,7 @@ You are new to DevOps or want to learn some DevOps tools, or you are already a D
 - **Hands-On practice**: Get basic examples for each topic so you can try out what you learn.
 - **Advanced examples**: Once you've grasped the basic concepts, exploring advanced examples will further elevate your skills.
 
-This is the **first** repo of my DevOps trio repositories: [**devops-basics**](https://github.com/nholuongut/devops-basics) ↔️ [DevOps Assignmente](https://github.com/nholuongut/DevOps_Assignmente) ↔️ ↔️ [DevOps Books List](https://github.com/nholuongut/DevOps_Books_Lists) ↔️ ↔️ [90 Days of DevOps as a Learning](https://github.com/nholuongut/90-Days-of-DevOps-as-a-Learning) ↔️  [DevSecOps Books Lists](https://github.com/nholuongut/DevSecOps-Books-Lists), designed to help you learn, practice, and apply DevOps.
+This is the **first** repo of my DevOps trio repositories: [**devops-basics**](https://github.com/nholuongut/devops-basics) ↔️ ↔️ [DevOps Books List](https://github.com/nholuongut/DevOps_Books_Lists) ↔️ ↔️ [90 Days of DevOps as a Learning](https://github.com/nholuongut/90-Days-of-DevOps-as-a-Learning) ↔️  [DevSecOps Books Lists](https://github.com/nholuongut/DevSecOps-Books-Lists), designed to help you learn, practice, and apply DevOps.
 
 ## Getting started :rocket:
 
