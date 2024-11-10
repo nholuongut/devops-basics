@@ -274,8 +274,7 @@ We cover a wide range of DevOps topics in our content library, explore them unde
 | Item                      | Link                                                                                   |
 | :---------------------    | :------------------------------------------------------------------------------------- |
 | The Github Repositories   | ☁️ [TheDevOpsHub](https://github.com/nholuongut)                                        |
-| 90DaysOfDevOps            | 📆 [90DaysOfDevOps](https://github.com/nholuongut/90-Days-of-DevOps-as-a-Learning)      |
-| DevOps Assignmente        | 👷 [DevOps Assignmente](https://github.com/nholuongut/DevOps_Assignmente)               |
+| 90DaysOfDevOps            | 📆 [90DaysOfDevOps](https://github.com/nholuongut/90-Days-of-DevOps-as-a-Learning)      |             |
 | DevOps Books List         | 🏗️ [DevOps Books List](https://github.com/nholuongut/DevOps_Books_Lists)                |
 | DevSecOps Books Lists     | 🐳 [DevSecOps Books Lists](https://github.com/nholuongut/DevSecOps-Books-Lists)         |
 
