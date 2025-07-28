@@ -294,7 +294,7 @@ We cover a wide range of DevOps topics in our content library, explore them unde
 * [Email Address](luongutnho@hotmail.com)
 
 ![](https://i.imgur.com/waxVImv.png)
-![](Donate.png)
+![](Donate.jpg)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
